@@ -3,3 +3,4 @@ class Cat
   attr_accessor :cat, :meow
   
 end
+
