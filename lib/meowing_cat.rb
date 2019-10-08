@@ -1,6 +1,10 @@
 ## code your solution here. 
 class Cat 
   attr_accessor :cat, :meow
+  
+  def meow
+    puts "meow!"
+  end
 end
 
 maru = Cat.new 
