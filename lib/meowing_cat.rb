@@ -6,3 +6,4 @@ end
 
 maru.name = "Maru"
 
+scream.meow = "meow!"
